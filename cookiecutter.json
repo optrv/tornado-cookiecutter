@@ -10,6 +10,6 @@
     "travis_url": "luizalabs/{{ cookiecutter.path_name }}",
     "_copy_without_render": [
         "*.js",
-        "*.html",
+        "*.html"
     ]
 }

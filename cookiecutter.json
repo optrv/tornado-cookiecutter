@@ -7,5 +7,8 @@
     "version": "0.1.0",
     "author": "",
     "repo": "",
-    "travis_url": "luizalabs/{{ cookiecutter.path_name }}"
+    "travis_url": "luizalabs/{{ cookiecutter.path_name }}",
+    "_copy_without_render": [
+        "*.js"
+    ]
 }
